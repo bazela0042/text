@@ -1,3 +1,5 @@
+import TexturedCube from "./TexturedCube";
+
 function App() {
   return <TexturedCube />;
 }
